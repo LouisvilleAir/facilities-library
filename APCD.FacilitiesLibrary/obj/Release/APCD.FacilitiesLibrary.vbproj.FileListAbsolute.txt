@@ -1,0 +1,10 @@
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\APCD.FacilitiesLibrary\APCD.FacilitiesLibrary\bin\Release\APCD.FacilitiesLibrary.dll
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\APCD.FacilitiesLibrary\APCD.FacilitiesLibrary\bin\Release\APCD.FacilitiesLibrary.pdb
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\APCD.FacilitiesLibrary\APCD.FacilitiesLibrary\bin\Release\APCD.FacilitiesLibrary.xml
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\APCD.FacilitiesLibrary\APCD.FacilitiesLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\APCD.FacilitiesLibrary\APCD.FacilitiesLibrary\obj\Release\Resources.resources
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\APCD.FacilitiesLibrary\APCD.FacilitiesLibrary\obj\Release\GenerateResource.read.1.tlog
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\APCD.FacilitiesLibrary\APCD.FacilitiesLibrary\obj\Release\GenerateResource.write.1.tlog
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\APCD.FacilitiesLibrary\APCD.FacilitiesLibrary\obj\Release\APCD.FacilitiesLibrary.dll
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\APCD.FacilitiesLibrary\APCD.FacilitiesLibrary\obj\Release\APCD.FacilitiesLibrary.xml
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\APCD.FacilitiesLibrary\APCD.FacilitiesLibrary\obj\Release\APCD.FacilitiesLibrary.pdb

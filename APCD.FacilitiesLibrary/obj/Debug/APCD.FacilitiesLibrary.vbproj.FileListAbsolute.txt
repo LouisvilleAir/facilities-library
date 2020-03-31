@@ -1,0 +1,4 @@
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\APCD.FacilitiesLibrary\APCD.FacilitiesLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\APCD.FacilitiesLibrary\APCD.FacilitiesLibrary\obj\Debug\Resources.resources
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\APCD.FacilitiesLibrary\APCD.FacilitiesLibrary\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\mfarris\Documents\Visual Studio 2010\Projects\APCD.FacilitiesLibrary\APCD.FacilitiesLibrary\obj\Debug\GenerateResource.write.1.tlog
